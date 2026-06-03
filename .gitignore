@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+vectorstore/
+data/
+.streamlit/secrets.toml
+*.egg-info/
+dist/
+build/
+.DS_Store
